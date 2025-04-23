@@ -5,13 +5,13 @@ A little more about me:
 
 - 👨🏼‍🎓 My graduating term is Spring 2026
 - 🔍 I'm currently seeking Summer 2025 internship opportuntities
-- 🔭 I’m currently working on building out my GitHub with academic and personal projects (see below 👇)
 - 🌱 I’m currently learning about database design, SQL, and parallel programming 
-- 👯 I’m looking to collaborate on hackathons, open source projects, and DS&A practice
-- 🤓 My current interests include software and embedded engineering, space travel, data science, and artificial intelligence
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/juliodiaziii) or [email](mailto:julio.diaz3rd@gmail.com) 
+- 👯 I’m looking to collaborate on hackathons, open source projects, and interview practice
+- 🔭 I’m currently working on building out my GitHub with academic and personal projects (see below 👇)
+- 🤓 My personal interests include software and embedded engineering, space travel, data science, and artificial intelligence
 - ⚡ Fun fact: prior to pursuing my dream of becoming a software engineer, I worked as a PM for companies like Apple, Discover, and HP!
-- - 🐶 Ask me about my cavapoo puppy, Woody!
+
+You can reach me via [LinkedIn](https://linkedin.com/in/juliodiaziii) or [email](mailto:julio.diaz3rd@gmail.com) 
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
