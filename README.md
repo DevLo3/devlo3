@@ -9,10 +9,9 @@ A little more about me:
 - 🌱 I’m currently learning about database design, SQL, and parallel programming 
 - 👯 I’m looking to collaborate on hackathons, open source projects, and DS&A practice
 - 🤓 My current interests include software and embedded engineering, space travel, data science, and artificial intelligence
-- 🐶 Ask me about my cavapoo puppy, Woody!
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/juliodiaziii) or [email](mailto:julio.diaz3rd@gmail.com) 
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: prior to pursuing my dream of becoming a software engineer, I worked as a PM for companies like Apple, Discover, and HP!
+- - 🐶 Ask me about my cavapoo puppy, Woody!
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
