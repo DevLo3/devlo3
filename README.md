@@ -1,4 +1,4 @@
-<h1>Welcome! I'm Julio 🙂 </h1>
+<h1>Welcome! My name is Julio 🙂 </h1>
 <h2>I'm a Computer Science at Oregon State University  🦫</h2>
 
 A little more about me:
@@ -11,7 +11,7 @@ A little more about me:
 - 🤓 My personal interests include software and embedded engineering, space travel, data science, and artificial intelligence
 - ⚡ Fun fact: prior to pursuing my dream of becoming a software engineer, I worked as a PM for companies like Apple, Discover, and HP!
 
-You can reach me via [LinkedIn](https://linkedin.com/in/juliodiaziii) or [email](mailto:julio.diaz3rd@gmail.com) 
+You can reach me via [LinkedIn](https://linkedin.com/in/juliodiaziii) or [email](mailto:julio.diaz3rd@gmail.com), let's talk!  📬
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
