@@ -1,5 +1,5 @@
 <h1>Welcome! My name is Julio 🙂 </h1>
-<h2>I'm a Computer Science at Oregon State University  🦫</h2>
+<h2>I'm a Computer Science student at Oregon State University  🦫</h2>
 
 A little more about me:
 
