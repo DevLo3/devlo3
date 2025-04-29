@@ -17,6 +17,8 @@ You can reach me via [LinkedIn](https://linkedin.com/in/juliodiaziii) or [email]
 
 - <b>Creating an interactive version of Atomic Chess in Python</b>
   - [Atomic Chess](https://github.com/DevLo3/AtomicChess-python/)
+- <b>Data Structures and Algorithms Practice</b>
+  - [DSA practice in Python](https://github.com/DevLo3/DataStructsAlgos-Python/)
 - <b>Web Development Practice (via The Odin Project)</b>
   - [Landing page template](https://github.com/DevLo3/OP-landing-page)
   - [Simple recipe directory](https://github.com/DevLo3/odin-recipes)
