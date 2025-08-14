@@ -3,8 +3,8 @@
 
 A little more about me:
 
-- 👨🏼‍🎓 My graduating term is Spring 2026
-- 🔍 I'm currently seeking Summer and Fall 2025 internship opportuntities
+- 👨🏼‍🎓 My graduating term is December 2026
+- 🔍 I'm currently seeking Summer 2026 internship opportuntities
 - 🌱 I’m currently learning about database design, SQL, and parallel programming 
 - 👯 I’m looking to collaborate on hackathons, open source projects, and interview practice
 - 🔭 I’m currently working on building out my GitHub with academic and personal projects (see below 👇)
